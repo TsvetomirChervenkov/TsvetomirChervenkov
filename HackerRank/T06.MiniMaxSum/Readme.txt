@@ -1,1 +1,1 @@
-
+T06.MiniMaxSum
