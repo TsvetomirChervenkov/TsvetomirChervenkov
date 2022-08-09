@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TsvetomirChervenkov
-- 👀 I’m interested in programing atm.
+- 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning C# in SoftUni
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: tsvetomirpch78@gmail.com
